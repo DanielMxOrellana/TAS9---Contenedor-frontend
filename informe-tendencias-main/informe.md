@@ -86,6 +86,8 @@ Evidencias:
 ![alt text](<Captura de pantalla 2025-12-06 105905.png>)
 
 ![alt text](<Captura de pantalla 2025-12-06 105920.png>)
+
+![alt text](image.png)
 ## 9. Resultados esperados:
     
 El servidor web se ejecuta correctamente dentro del contenedor Docker y que la aplicación es accesible desde el navegador. Para validar esto, se espera que el estudiante logre:
